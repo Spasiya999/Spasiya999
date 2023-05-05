@@ -13,7 +13,7 @@
 
   <h2>Skills and Experience</h2>
   <ul>
-    <li>Proficient in Python, JavaScript, HTML, and CSS</li>
+    <li>Proficient in PHP, JavaScript, HTML, and CSS</li>
     <li>Familiar with popular software development tools such as Git and VSCode</li>
     <li>Completed online courses in web development, data science, and machine learning</li>
     <li>Participated in several hackathons and coding competitions</li>
