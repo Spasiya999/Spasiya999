@@ -4,20 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title></title>
-  <style>
-		.line {
-			width: 100%;
-			height: 5px;
-			background-color: red;
-			position: absolute;
-			top: 50%;
-			left: 0;
-		}
-	</style>
 </head>
 <body>
   <h1>Sachintha Pasindu</h1>
-  <div class="line"></div>
+	
   <h2>Introduction</h2>
   <p>I'm a Web developer with a passion for coding and editing. I'm currently learning at eLearning.lk and exploring new technologies to enhance my skills.</p>
 
@@ -40,21 +30,6 @@
     <li>Email: sachintha4949@gmail.com</li>
     <li>LinkedIn: <a href="[https://www.linkedin.com/in/sachintha-pasindu/](https://www.linkedin.com/in/sachintha-pasindu-gamge-8b8a63206/)">linkedin.com/in/sachintha-pasindu</a></li>
   </ul>
-  <script>
-		const line = document.querySelector('.line');
-		let hue = 0;
-		let direction = 1;
-
-		function changeColor() {
-			hue += direction;
-			if (hue >= 360) {
-				hue = 0;
-			}
-			line.style.backgroundColor = `hsl(${hue}, 100%, 50%)`;
-			window.requestAnimationFrame(changeColor);
-		}
-
-		changeColor();
-	</script>
+ 
 </body>
 </html>
