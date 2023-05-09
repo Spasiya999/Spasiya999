@@ -6,7 +6,7 @@
 
 </head>
 <body>
-<a href=""><img src="https://user-images.githubusercontent.com/129094910/236995298-8642db97-c956-46e4-b129-6dec4f7c6e21.gif"></a>
+<a href="https://www.linkedin.com/in/sachintha-pasindu-gamge-8b8a63206/"><img src="https://user-images.githubusercontent.com/129094910/236995298-8642db97-c956-46e4-b129-6dec4f7c6e21.gif"></a>
 
   <h1>Sachintha Pasindu</h1>
 
