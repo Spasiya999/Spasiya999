@@ -6,7 +6,7 @@
 
 </head>
 <body>
-	<img src="[smiley.gif](https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif)">
+	![is_scala_good_for_web_development](https://user-images.githubusercontent.com/129094910/236994245-5d72a18e-8372-47ae-8f7f-88c0a876ea36.gif)
   <h1>Sachintha Pasindu</h1>
 	
   <h2>Introduction</h2>
