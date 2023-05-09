@@ -6,7 +6,7 @@
 
 </head>
 <body>
-https://user-images.githubusercontent.com/129094910/236995298-8642db97-c956-46e4-b129-6dec4f7c6e21.gif
+<img src="https://user-images.githubusercontent.com/129094910/236995298-8642db97-c956-46e4-b129-6dec4f7c6e21.gif">
 
   <h1>Sachintha Pasindu</h1>
 
