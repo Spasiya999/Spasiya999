@@ -33,7 +33,7 @@
   <h2>Contact Information</h2>
   <ul>
     <li>Email: sachintha4949@gmail.com</li>
-    <li>LinkedIn: <a href="[https://www.linkedin.com/in/sachintha-pasindu/](https://www.linkedin.com/in/sachintha-pasindu-gamge-8b8a63206/)">linkedin.com/in/sachintha-pasindu</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/sachintha-pasindu-gamge-8b8a63206/">linkedin.com/in/sachintha-pasindu</a></li>
   </ul>
  
 </body>
