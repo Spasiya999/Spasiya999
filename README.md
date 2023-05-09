@@ -6,7 +6,10 @@
 
 </head>
 <body>
-	![is_scala_good_for_web_development](https://user-images.githubusercontent.com/129094910/236994245-5d72a18e-8372-47ae-8f7f-88c0a876ea36.gif)
+
+	![is_scala_good_for_web_development](https://user-images.githubusercontent.com/129094910/236994582-251e21ed-b51f-4fc1-8720-a066d60188f8.gif)
+
+
   <h1>Sachintha Pasindu</h1>
 	
   <h2>Introduction</h2>
