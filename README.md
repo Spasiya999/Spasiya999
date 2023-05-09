@@ -6,13 +6,13 @@
 
 </head>
 <body>
-<img src="https://user-images.githubusercontent.com/129094910/236995298-8642db97-c956-46e4-b129-6dec4f7c6e21.gif">
+<a href=""><img src="https://user-images.githubusercontent.com/129094910/236995298-8642db97-c956-46e4-b129-6dec4f7c6e21.gif"></a>
 
   <h1>Sachintha Pasindu</h1>
 
   <h2>Introduction</h2>
   <p>I'm a Web developer with a passion for coding and editing. I'm currently learning at eLearning.lk and exploring new technologies to enhance my skills.</p>
-
+<img src="https://jojocdn.jojocms.org/is_scala_good_for_web_development.gif">
   <h2>Skills and Experience</h2>
   <ul>
     <li>Proficient in PHP, JavaScript, HTML, and CSS</li>
