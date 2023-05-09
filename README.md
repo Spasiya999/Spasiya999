@@ -12,7 +12,9 @@
 
   <h2>Introduction</h2>
   <p>I'm a Web developer with a passion for coding and editing. I'm currently learning at eLearning.lk and exploring new technologies to enhance my skills.</p>
-<img src="https://jojocdn.jojocms.org/is_scala_good_for_web_development.gif">
+
+  <img src="https://user-images.githubusercontent.com/129094910/236995745-b590413c-2a28-4f15-b531-39a40555458d.gif">
+
   <h2>Skills and Experience</h2>
   <ul>
     <li>Proficient in PHP, JavaScript, HTML, and CSS</li>
