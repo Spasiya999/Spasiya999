@@ -10,10 +10,11 @@
 
   <h1>Sachintha Pasindu</h1>
 
+
   <h2>Introduction</h2>
   <p>I'm a Web developer with a passion for coding and editing. I'm currently learning at eLearning.lk and exploring new technologies to enhance my skills.</p>
 
-  <img src="https://user-images.githubusercontent.com/129094910/236995745-b590413c-2a28-4f15-b531-39a40555458d.gif">
+<img src="https://user-images.githubusercontent.com/129094910/236996081-fc3551e2-74c5-470e-8901-e08bdb262b07.gif">  
 
   <h2>Skills and Experience</h2>
   <ul>
